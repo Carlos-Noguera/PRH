@@ -1,0 +1,89 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Master.master.vb" Inherits="PRH.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Portal Recursos Humanos</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="Resources/css/bootstrap.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="Resources/css/bootstrap.css">
+     <link rel="stylesheet" href="Resources/css/EstiloM.css">
+    
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+
+<body>
+    
+        <header >
+
+            <h2 class="container-fluid" >
+               PORTAL DE RECURSOS HUMANOS
+            </h2> 
+        </header>
+ 
+
+    <form id="form1" runat="server">
+    
+    <asp:ScriptManager ID="ScriptManager" runat="server"></asp:ScriptManager>
+         
+        <div class="container-fluid">
+            <div class="row"> <!--MENU-->
+                <div class="col-2 bg-success">
+                    <nav>
+                        <ul>
+                            <li ><img height="60" src="~/Resources/perfil.jpg" runat="server" /> <br />
+                                <asp:Label ID="LabelPerfil" runat="server" Text="Nombre" ForeColor="White"/>
+                            </li>
+                            <li>
+                            <asp:Button ID="BtnMiCuenta" runat="server" Text="Mi Cuenta" Width="225px" />
+                            </li>
+                            <li >
+                                <asp:Button ID="BtnAvisosAusencia" runat="server" Text="Avisos de Ausencia" Width="225px" />
+                            </li>
+                            <li  >
+                                <asp:Button ID="BtnDerechohabiente" runat="server" Text="Derechohabiente" Width="225px" />
+                            </li>
+                            <li>
+                                <asp:Button ID="BtnRecibosNomina" runat="server" Text="Recibos de Nomina" Width="225px" />
+
+                            </li>
+                            <li>
+                                <asp:Button ID="BtnVacaciones" runat="server" Text="Vacaciones" Width="225px" />
+
+                            </li>
+                            <li>
+                                <asp:Button ID="BtnCerrar" runat="server" Text="Cerrar" Width="225px" />
+
+                            </li>
+                        </ul>
+                    </nav>
+                                    
+                </div>
+                <div class="col-10 bg-white">
+
+                 
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                  
+                </div>
+            </div>
+        </div>
+    
+
+    </form>
+</body>
+</html>

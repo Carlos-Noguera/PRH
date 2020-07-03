@@ -1,0 +1,25 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #024959;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+nav {
+    height: 1000px;
+    width:auto;
+    
+}
+
+nav ul {
+        list-style: none;
+        overflow: hidden;
+    }
+
+

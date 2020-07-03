@@ -1,0 +1,110 @@
+﻿.boton_cerrar 
+{
+    background-color: #832626;
+    color: white;
+    border: groove;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.boton_sesion 
+{
+    background-color: red;
+    color: white;
+    border: groove;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.boton_menu 
+{
+    background-color: #1a2f74;
+    color: white;
+    border: groove;
+    border-color: white;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.boton_precontra 
+{
+    color: white;
+    border: groove;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.micuena 
+{
+    color: white;
+    border: groove;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.boton_cambiar_usuario 
+{
+    background-color: #1a2f74;
+    color: white;
+    border: groove;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.boton_login 
+{
+    background-color: #0a821f;
+    color: white;
+    border: groove;
+    border-color:white;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.boton_validar 
+{
+    background-color: peru;
+    color: white;
+    border: groove;
+    border-color: white;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+@media (max-width:768px) 
+{
+    .boton_cerrar 
+    {
+        background-color: red;
+        color: white;
+        border: groove;
+        display: inline-block;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        content: "X";
+    }
+}
+@media (min-width:768px) {
+    .boton_cerrar 
+    {
+        background-color: red;
+        color: white;
+        border: groove;
+        display: inline-block;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        content: "X";
+    }
+}

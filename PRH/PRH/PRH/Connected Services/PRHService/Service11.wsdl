@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.Personal" />
+      <xsd:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.AvisosAusencia" />
+      <xsd:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.MotivoAviso" />
+      <xsd:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.Login" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPersonal_GetPersonal_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPersonal" />
+  </wsdl:message>
+  <wsdl:message name="IPersonal_GetPersonal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPersonalResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_GetAvisos_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAvisos" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_GetAvisos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAvisosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_UpdateAviso_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAviso" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_UpdateAviso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAvisoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_InsertAviso_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAviso" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_InsertAviso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAvisoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_DeleteAviso_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteAviso" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_DeleteAviso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteAvisoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_GetMotivo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMotivo" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_GetMotivo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMotivoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_GetEdoVac_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEdoVac" />
+  </wsdl:message>
+  <wsdl:message name="IAvisosAusencia_GetEdoVac_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEdoVacResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogin_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="ILogin_Login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPersonal">
+    <wsdl:operation name="GetPersonal">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPersonal/GetPersonal" message="tns:IPersonal_GetPersonal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPersonal/GetPersonalResponse" message="tns:IPersonal_GetPersonal_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="IAvisosAusencia">
+    <wsdl:operation name="GetAvisos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvisosAusencia/GetAvisos" message="tns:IAvisosAusencia_GetAvisos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvisosAusencia/GetAvisosResponse" message="tns:IAvisosAusencia_GetAvisos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAviso">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvisosAusencia/UpdateAviso" message="tns:IAvisosAusencia_UpdateAviso_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvisosAusencia/UpdateAvisoResponse" message="tns:IAvisosAusencia_UpdateAviso_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertAviso">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvisosAusencia/InsertAviso" message="tns:IAvisosAusencia_InsertAviso_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvisosAusencia/InsertAvisoResponse" message="tns:IAvisosAusencia_InsertAviso_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAviso">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvisosAusencia/DeleteAviso" message="tns:IAvisosAusencia_DeleteAviso_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvisosAusencia/DeleteAvisoResponse" message="tns:IAvisosAusencia_DeleteAviso_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMotivo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvisosAusencia/GetMotivo" message="tns:IAvisosAusencia_GetMotivo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvisosAusencia/GetMotivoResponse" message="tns:IAvisosAusencia_GetMotivo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEdoVac">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAvisosAusencia/GetEdoVac" message="tns:IAvisosAusencia_GetEdoVac_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAvisosAusencia/GetEdoVacResponse" message="tns:IAvisosAusencia_GetEdoVac_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="ILogin">
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogin/Login" message="tns:ILogin_Login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogin/LoginResponse" message="tns:ILogin_Login_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IPersonal" type="tns:IPersonal">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetPersonal">
+      <soap:operation soapAction="http://tempuri.org/IPersonal/GetPersonal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IAvisosAusencia" type="tns:IAvisosAusencia">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAvisos">
+      <soap:operation soapAction="http://tempuri.org/IAvisosAusencia/GetAvisos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAviso">
+      <soap:operation soapAction="http://tempuri.org/IAvisosAusencia/UpdateAviso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAviso">
+      <soap:operation soapAction="http://tempuri.org/IAvisosAusencia/InsertAviso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAviso">
+      <soap:operation soapAction="http://tempuri.org/IAvisosAusencia/DeleteAviso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMotivo">
+      <soap:operation soapAction="http://tempuri.org/IAvisosAusencia/GetMotivo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEdoVac">
+      <soap:operation soapAction="http://tempuri.org/IAvisosAusencia/GetEdoVac" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_ILogin" type="tns:ILogin">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://tempuri.org/ILogin/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IPersonal" binding="tns:BasicHttpBinding_IPersonal">
+      <soap:address location="http://localhost:49898/Service1.svc" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IAvisosAusencia" binding="tns:BasicHttpBinding_IAvisosAusencia">
+      <soap:address location="http://localhost:49898/Service1.svc" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_ILogin" binding="tns:BasicHttpBinding_ILogin">
+      <soap:address location="http://localhost:49898/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

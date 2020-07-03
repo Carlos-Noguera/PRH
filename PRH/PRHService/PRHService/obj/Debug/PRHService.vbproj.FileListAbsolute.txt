@@ -1,0 +1,322 @@
+C:\Users\celes\source\repos\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\celes\source\repos\PRHService\PRHService\bin\PRHService.dll
+C:\Users\celes\source\repos\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\celes\source\repos\PRHService\PRHService\bin\PRHService.xml
+C:\Users\celes\source\repos\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\celes\source\repos\PRHService\PRHService\bin\RISQ.dll
+C:\Users\celes\source\repos\PRHService\PRHService\bin\itextsharp.dll
+C:\Users\celes\source\repos\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\celes\source\repos\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\celes\source\repos\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\celes\source\repos\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\celes\source\repos\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\celes\source\repos\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\celes\source\repos\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\celes\source\repos\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\celes\source\repos\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\celes\source\repos\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\celes\source\repos\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_G\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_I\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_J\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\bin\PRHService.dll
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\bin\PRHService.xml
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\celes\source\repos\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_K\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_L\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\bin\PRHService.dll
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\bin\PRHService.xml
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\celes\source\repos\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_N\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Ñ\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_P\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Q\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_R\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_S\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_T - copia\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_U\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Y - copia\PRHService\PRHService\obj\Debug\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\bin\PRHService.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\bin\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\bin\PRHService.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\bin\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\bin\PRHServiceLibrary.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\bin\PRHServiceLibrary.pdb
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\bin\PRHServiceLibrary.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\bin\PRHServiceLibrary.dll.config
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\obj\Debug\PRHService.vbprojAssemblyReference.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\obj\Debug\PRHService.Resources.resources
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.GenerateResource.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.CoreCompileInputs.cache
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\obj\Debug\PRHService.vbproj.CopyComplete
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\obj\Debug\PRHService.dll
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\obj\Debug\PRHService.xml
+C:\Users\Dev03\Desktop\Nueva carpeta\PROYECTO_Z - copia\PRHService\PRHService\obj\Debug\PRHService.pdb

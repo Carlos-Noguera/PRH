@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PRHService", "PRHService\PRHService.vbproj", "{B32064B2-ECE0-4172-9FFB-F10B9669AAAD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PRHServiceLibrary", "PRHServiceLibrary\PRHServiceLibrary.vbproj", "{EEC48E1C-B41C-41A4-97F0-56C2771CB0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32064B2-ECE0-4172-9FFB-F10B9669AAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32064B2-ECE0-4172-9FFB-F10B9669AAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32064B2-ECE0-4172-9FFB-F10B9669AAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32064B2-ECE0-4172-9FFB-F10B9669AAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC48E1C-B41C-41A4-97F0-56C2771CB0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC48E1C-B41C-41A4-97F0-56C2771CB0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC48E1C-B41C-41A4-97F0-56C2771CB0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC48E1C-B41C-41A4-97F0-56C2771CB0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FF56F6-51B7-4624-97F1-1EEFB573A4F5}
+	EndGlobalSection
+EndGlobal

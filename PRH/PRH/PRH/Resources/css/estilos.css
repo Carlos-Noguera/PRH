@@ -1,0 +1,84 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+nav {
+    height: 1000px;
+    margin: 0px auto 20px auto;
+    max-width: 1000px;
+    background: #024959;
+}
+
+.menu_bar {
+    display: none;
+}
+
+nav ul {
+    list-style: none;
+    overflow: hidden;
+}
+
+    /*centrar elementos del menu*/
+    nav ul li {
+        float: center;
+        border: 1px solid rgba(255,255,255,.3); /*separacion blanca*/
+    }
+
+ul {
+    text-align: center;
+}
+
+
+nav ul li a {
+    display: block;
+    padding: 20px; /*separacion de la lista*/
+    color: #fff;
+    text-decoration: none;
+}
+
+    nav ul li a:hover {
+        background: #037E8C;
+    }
+
+
+/*cuando la pantalla se adapta al mobil colapsa*/
+@media screen and (max-width:700px) {
+    nav {
+        width: 70%;
+        height: 100%;
+        margin: 0;
+        position: fixed;
+        left: -100%;
+        overflow: auto;
+    }
+
+    /*largo del menu ajustado*/
+    .menu_bar {
+        display: block;
+        height: 100% background:#ccc;
+    }
+
+        /*caracteristicas del boton menu*/
+        .menu_bar .bt-menu {
+            display: block;
+            padding: 20px;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            background: #024959;
+            overflow: hidden;
+            font-size: 25px;
+            font-weight: bold;
+            color: #fff;
+            text-decoration: none;
+        }
+
+    /*cuando esta en el toggle*/
+    nav ul li {
+        display: block;
+        border-bottom: 1px solid rgba(255,255,255,.3);
+    }
+}

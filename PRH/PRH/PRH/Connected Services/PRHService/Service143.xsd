@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.Personal" />
+  <xs:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.AvisosAusencia" />
+  <xs:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.MotivoAviso" />
+  <xs:import schemaLocation="http://localhost:49898/Service1.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.Login" />
+  <xs:element name="GetPersonal">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="NUMERO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPersonalResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.Personal" minOccurs="0" name="GetPersonalResult" nillable="true" type="q1:ObjPersonal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAvisos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="NUMERO" type="xs:int" />
+        <xs:element minOccurs="0" name="MOTIVO" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAvisosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.AvisosAusencia" minOccurs="0" name="GetAvisosResult" nillable="true" type="q2:ArrayOfObjAvisosAusencia" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateAviso">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.AvisosAusencia" minOccurs="0" name="aviso" nillable="true" type="q3:ObjAvisosAusencia" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateAvisoResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertAviso">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.AvisosAusencia" minOccurs="0" name="nuevo" nillable="true" type="q4:ObjAvisosAusencia" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="InsertAvisoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="InsertAvisoResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DeleteAviso">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="FOLIO" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DeleteAvisoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="DeleteAvisoResult" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMotivo">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMotivoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.MotivoAviso" minOccurs="0" name="GetMotivoResult" nillable="true" type="q5:ArrayOfObjMotivoAviso" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetEdoVac">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="NumeroEmpleado" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetEdoVacResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.AvisosAusencia" minOccurs="0" name="GetEdoVacResult" nillable="true" type="q6:ArrayOfObjAvisosAusencia" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Login">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="contrasenia" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoginResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.Login" minOccurs="0" name="LoginResult" nillable="true" type="q7:ObjLogin" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

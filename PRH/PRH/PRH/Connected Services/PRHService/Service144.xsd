@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.Personal" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/PRHServiceLibrary.Data.Personal" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ObjPersonal">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Afore" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CONTRATO_DESC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CTRO_CTO_DESC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Caja" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CajaB" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CajaF" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Calle" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cartilla" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CasaOedi" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CentroT" type="xs:int" />
+      <xs:element minOccurs="0" name="ClaseRgo" type="xs:short" />
+      <xs:element minOccurs="0" name="Clinica" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Colonia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Contrato" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cp" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CtaBch" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CtaBnm" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CtaPromex" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CtroCto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CtroOrg" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cuentabanorte" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CuotaG" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CuotaN" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CuotaNpos90" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Curp" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DelMun" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Dir1" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Dir2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DoctoEscolar" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EDO_CIVIL_DES" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ESCOLARIDAD_DESC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EdoCivil" type="xs:double" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Emaili" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Entidad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Escolaridad" type="xs:short" />
+      <xs:element minOccurs="0" name="FechaAnt" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaCaja" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaEgr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaIng" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaNac" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaPto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaT" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Fechainid" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Gdo" type="xs:unsignedByte" />
+      <xs:element minOccurs="0" name="GpoS" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Horario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Hsm" type="xs:unsignedByte" />
+      <xs:element minOccurs="0" name="IMss" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Jornada" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Jornadap" type="xs:decimal" />
+      <xs:element minOccurs="0" name="LNac" type="xs:double" />
+      <xs:element minOccurs="0" name="LOC_DESC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Loc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Materno" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NBanco" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NContrato" type="xs:double" />
+      <xs:element minOccurs="0" name="NCuenta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NMadre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NPadre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Ncredinfo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nombres" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NumE" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NumI" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Numero" type="xs:int" />
+      <xs:element minOccurs="0" name="NumeroOld" type="xs:int" />
+      <xs:element minOccurs="0" name="Obra" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Obra1" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Obra2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Obra3" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Parentemp" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Parenttip" type="xs:short" />
+      <xs:element minOccurs="0" name="Parentwho" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Paterno" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Pensionado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Porpaginfo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="PosG" type="xs:unsignedByte" />
+      <xs:element minOccurs="0" name="PosN" type="xs:unsignedByte" />
+      <xs:element minOccurs="0" name="PtoPlan" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Puesto" type="xs:short" />
+      <xs:element minOccurs="0" name="PustoDescrip" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RFc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SDi" type="xs:decimal" />
+      <xs:element minOccurs="0" name="SEXI_DESC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SUCURSAL_DESC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SdiFijo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="SdiInfo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="SdiVar" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Sexo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Status" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sua" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sucursal" type="xs:short" />
+      <xs:element minOccurs="0" name="Tab" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TallaCb" type="xs:short" />
+      <xs:element minOccurs="0" name="TallaPf" type="xs:short" />
+      <xs:element minOccurs="0" name="Tarjeta" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Telefono" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Tipo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoTrab" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UBICACION_DESC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Ubicacion" type="xs:unsignedByte" />
+      <xs:element minOccurs="0" name="Userpassword" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ObjPersonal" nillable="true" type="tns:ObjPersonal" />
+</xs:schema>
