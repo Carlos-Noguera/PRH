@@ -1,0 +1,7 @@
+@media (max-width:480px){
+    .list-group-item {
+        padding: 0.75rem 0.25rem;
+    }
+}
+
+
